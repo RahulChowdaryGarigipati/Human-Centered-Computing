@@ -1,0 +1,29 @@
+@inproceedings{10.1145/3338286.3340113,
+author = {B\"{u}schel, Wolfgang and Mitschick, Annett and Meyer, Thomas and Dachselt, Raimund},
+title = {Investigating Smartphone-Based Pan and Zoom in 3D Data Spaces in Augmented Reality},
+year = {2019},
+isbn = {9781450368254},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3338286.3340113},
+doi = {10.1145/3338286.3340113},
+abstract = {In this paper, we investigate mobile devices as interactive controllers to support
+the exploration of 3D data spaces in head-mounted Augmented Reality (AR). In future
+mobile contexts, applications such as immersive analysis or ubiquitous information
+retrieval will involve large 3D data sets, which must be visualized in limited physical
+space. This necessitates efficient interaction techniques for 3D panning and zooming.
+Smartphones as additional input devices are promising because they are familiar and
+widely available in mobile usage contexts. They also allow more casual and discreet
+interaction compared to free-hand gestures or voice input. We introduce smartphone-based
+pan &amp; zoom techniques for 3D data spaces and present a user study comparing five techniques.
+Our results show that spatial device gestures can outperform both touch-based techniques
+and hand gestures in terms of task completion times and user preference. We discuss
+our findings in detail and suggest suitable techniques for specific AR navigation
+tasks.},
+booktitle = {Proceedings of the 21st International Conference on Human-Computer Interaction with Mobile Devices and Services},
+articleno = {2},
+numpages = {13},
+keywords = {Interaction Techniques, 3D Navigation, Immersive Visualization, Pan &amp; Zoom, 3D Data Exploration, Augmented Reality},
+location = {Taipei, Taiwan},
+series = {MobileHCI '19}
+}

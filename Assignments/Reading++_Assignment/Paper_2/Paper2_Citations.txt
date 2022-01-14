@@ -1,0 +1,27 @@
+@inproceedings{10.1145/3338286.3340119,
+author = {Henderson, Jay and Mizobuchi, Sachi and Li, Wei and Lank, Edward},
+title = {Exploring Cross-Modal Training via Touch to Learn a Mid-Air Marking Menu Gesture Set},
+year = {2019},
+isbn = {9781450368254},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3338286.3340119},
+doi = {10.1145/3338286.3340119},
+abstract = {While mid-air gestures are an attractive modality with an extensive research history,
+one challenge with their usage is that the gestures are not self-revealing. Scaffolding
+techniques to teach these gestures are difficult to implement since the input device,
+e.g. a hand, wand or arm, cannot present the gestures to the user. In contrast, for
+touch gestures, feedforward mechanisms (such as Marking Menus or OctoPocus) have been
+shown to effectively support user awareness and learning. In this paper, we explore
+whether touch gesture input can be leveraged to teach users to perform mid-air gestures.
+We show that marking menu touch gestures transfer directly to knowledge of mid-air
+gestures, allowing performance of these gestures without intervention. We argue that
+cross-modal learning can be an effective mechanism for introducing users to mid-air
+gestural input.},
+booktitle = {Proceedings of the 21st International Conference on Human-Computer Interaction with Mobile Devices and Services},
+articleno = {8},
+numpages = {9},
+keywords = {Training, Motor learning, Motion input, Mobile interface},
+location = {Taipei, Taiwan},
+series = {MobileHCI '19}
+}

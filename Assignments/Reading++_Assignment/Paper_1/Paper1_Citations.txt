@@ -1,0 +1,29 @@
+@inproceedings{10.1145/3229434.3229446,
+author = {Suzuki, Kenji and Sakamoto, Ryuuki and Sakamoto, Daisuke and Ono, Tetsuo},
+title = {Pressure-Sensitive Zooming-out Interfaces for One-Handed Mobile Interaction},
+year = {2018},
+isbn = {9781450358989},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3229434.3229446},
+doi = {10.1145/3229434.3229446},
+abstract = {We present new alternative interfaces for zooming out on a mobile device: Bounce Back
+and Force Zoom. These interfaces are designed to be used with a single hand. They
+use a pressure-sensitive multitouch technology in which the pressure itself is used
+to zoom. Bounce Back senses the intensity of pressure while the user is pressing down
+on the display. When the user releases his or her finger, the view is bounced back
+to zoom out. Force Zoom also senses the intensity of pressure, and the zoom level
+is associated with this intensity. When the user presses down on the display, the
+view is scaled back according to the intensity of the pressure. We conducted a user
+study to investigate the efficiency and usability of our interfaces by comparing with
+previous pressure-sensitive zooming interface and Google Maps zooming interface as
+a baseline. Results showed that Bounce Back and Force Zoom was evaluated as significantly
+superior to that of previous research; number of operations was significantly lower
+than default mobile Google Maps interface and previous research.},
+booktitle = {Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services},
+articleno = {30},
+numpages = {8},
+keywords = {user study, zooming user interface, ZUI, mobile interaction, one-handed interaction},
+location = {Barcelona, Spain},
+series = {MobileHCI '18}
+}
